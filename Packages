@@ -1,0 +1,48 @@
+Package: com.anhtuan-dev.clock15
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Anh Tuan
+Installed-Size: 1356
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.anhtuan-dev.clock15_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 293768
+MD5sum: 809b4dcaddd0b326f8200549ee2b1e3a
+SHA1: 2573644236c55cf7a8b00d3dbc2eb6fc83bfb384
+SHA256: 511f88442a70b309531df1b9b04b5bb66cf299abacf3812c96ec3df545e71818
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Anh Tuan
+Name: Clock15
+
+Package: com.anhtuan-dev.clock15
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Anh Tuan
+Installed-Size: 1216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.anhtuan-dev.clock15_1.0-1+debug_iphoneos-arm64.deb
+Size: 293770
+MD5sum: 5949f51a9a9ea856b370130d9f566302
+SHA1: 5cc4678cccba79e6216a23cd7695466b6423bc73
+SHA256: 3b8296c03c5929a1f80b64b33d5905245a05019671f7ad13a10339e52a680cdd
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Anh Tuan
+Name: Clock15
+
+Package: com.anhtuan-dev.clock15
+Version: 2.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Anh Tuan
+Installed-Size: 1244
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.anhtuan-dev.clock15_2.0-1+debug_iphoneos-arm64.deb
+Size: 293178
+MD5sum: 2b34bea03676fba517e771b91c0f8256
+SHA1: 8aeef58b567760af9fe66215fe07bb1c2a8b38ff
+SHA256: 2879e6baa3a37e8a105cdefb5fe834dc69c09b52be9eaa507224d7aeed919dfd
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Anh Tuan
+Name: Clock15
+
